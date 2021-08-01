@@ -1,0 +1,14 @@
+{
+  "name": "getting-started",
+  "version": "1.0.0",
+  "description": "A basic starting point for learning TypeScript.",
+  "main": "index.js",
+  "scripts": {
+    "compile-typescript": "tsc"
+  },
+  "author": "Elias Gutierrez",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
