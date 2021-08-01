@@ -1,0 +1,14 @@
+{
+  "name": "s2-ts-basics-and-types",
+  "version": "1.0.0",
+  "description": "Core syntax and features of TypeScript",
+  "main": "index.js",
+  "scripts": {
+    "compile-typescript": "tsc"
+  },
+  "author": "Elias Gutierrez",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^4.3.5"
+  }
+}
